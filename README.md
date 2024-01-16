@@ -1,3 +1,3 @@
-# Diabetes-Analysis-Prediction-Project
+# Statistical Investigation of Diabetes Risk Factors in Pima Indian Women
 
 As a part of this project, we explore the comprehensive dataset sourced from the National Institute of Diabetes, focusing on Pima Indian women aged 21 and above.Through meticulous statistical analysis, we aim to unravel intricate connections, addressing crucial questions regarding pregnancies, BMI fluctuations, and familial susceptibility to diabetes. Employing diverse techniques, including two-sample t-tests, one-sample hypothesis testing, and both multiple and simple linear regression, our investigation is tailored to enhance comprehension of the intricate interplay between various factors influencing diabetes within this specific demographic.
